@@ -6,7 +6,7 @@
     
 ## List of assignment links
 
-1. [Simple webpage](https://github.com/anantakrroy/FullStackWebDevelopment/tree/master/assignments/week01/day5/solution.html)
+1. [Simple webpage](https://github.com/anantakrroy/FullStackWebDevelopment/tree/master/assignments/week01/day5/solution.html){:target="_blank"}
 2. [HTML `table` and `input` tags](https://github.com/anantakrroy/FullStackWebDevelopment/blob/master/assignments/week02/day1/solution.html)
 3. [Simple webpage using custom CSS](https://github.com/anantakrroy/FullStackWebDevelopment/tree/master/assignments/week02/day5)
 4. [Multi page website design using Bootstrap 4](https://github.com/anantakrroy/FullStackWebDevelopment/tree/master/assignments/week03/day1)
