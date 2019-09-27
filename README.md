@@ -17,3 +17,14 @@
 
 </details>
 
+<details>
+<summary>Coding Challenges</summary>
+
+## List of coding challenge links
+
+1. [Simple login page using Bootstrap 4](https://github.com/anantakrroy/FullStackWebDevelopment/blob/master/coding-challenges/week03/day1/loginTry.html)
+2. [Check if given input is a palindrome](https://github.com/anantakrroy/FullStackWebDevelopment/blob/master/coding-challenges/week03/day2/solution.js)
+3. [Filter out players from an array according to their rankings](https://github.com/anantakrroy/FullStackWebDevelopment/blob/master/coding-challenges/week03/day4/solution.js)
+
+</details>
+
