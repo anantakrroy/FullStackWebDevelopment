@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Form Validation</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+        integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+</head>
+
+<body>
+    <div class="row">
+        <div class="col-lg-6 mx-5">
+            <h1>Login</h2>
+        </div>
+    </div>
+    <div class="row">
+        <div class="bg-light border border-dark mx-5">
+            <form class="mx-4">
+                <div class="form-group my-3">
+                    <label class="mx-5">Username</label>
+                    <input type="text" id="email">
+                </div>
+                <div class="form-group my-3">
+                    <label class="mx-5">Password</label>
+                    <input type="password" id="password">
+                </div>
+                <button onclick="validateEmail(); validatePassword()" class="btn btn-primary float-right mb-4">Login</button>
+            </form>
+        </div>
+    </div>
+
+    <script type="text/javascript" src="validation.js"></script>
+</body>
+
+</html>
