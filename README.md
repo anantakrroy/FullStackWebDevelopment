@@ -14,7 +14,9 @@
 6. [Multiplication table of 5](https://github.com/anantakrroy/FullStackWebDevelopment/blob/master/assignments/week03/day3/solution.js)
 7. [Check if element exists in given array](https://github.com/anantakrroy/FullStackWebDevelopment/blob/master/assignments/week03/day4/solution.js)
 8. [Listen for mouse click on `button` in DOM tree](https://github.com/anantakrroy/FullStackWebDevelopment/tree/master/assignments/week03/day5)
-9. [JS Calculator using JS DOM manipulation]()
+9. [JS Calculator using JS DOM manipulation](https://github.com/anantakrroy/FullStackWebDevelopment/blob/master/assignments/week04/day1/assignment1/calculator.js)
+10. [Simple form validation](https://github.com/anantakrroy/FullStackWebDevelopment/blob/master/assignments/week04/day1/assignment2/validation.js)
+11. [Stack Emulator](https://github.com/anantakrroy/FullStackWebDevelopment/blob/master/assignments/week04/day1/assignment3/stack.js)
 
 </details>
 
