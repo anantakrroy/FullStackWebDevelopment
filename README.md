@@ -14,6 +14,7 @@
 6. [Multiplication table of 5](https://github.com/anantakrroy/FullStackWebDevelopment/blob/master/assignments/week03/day3/solution.js)
 7. [Check if element exists in given array](https://github.com/anantakrroy/FullStackWebDevelopment/blob/master/assignments/week03/day4/solution.js)
 8. [Listen for mouse click on `button` in DOM tree](https://github.com/anantakrroy/FullStackWebDevelopment/tree/master/assignments/week03/day5)
+9. [JS Calculator using JS DOM manipulation]()
 
 </details>
 
@@ -25,7 +26,7 @@
 1. [Simple login page using Bootstrap 4](https://github.com/anantakrroy/FullStackWebDevelopment/blob/master/coding-challenges/week03/day1/loginTry.html)
 2. [Check if given input is a palindrome](https://github.com/anantakrroy/FullStackWebDevelopment/blob/master/coding-challenges/week03/day2/solution.js)
 3. [Filter out players from an array according to their rankings](https://github.com/anantakrroy/FullStackWebDevelopment/blob/master/coding-challenges/week03/day4/solution.js)
-4. [Create a table for squares of numbers 1-10 using JS DOM manipulation](https://github.com/attainu/ananta-roy-au4/blob/master/coding-challenges/week03/day5/tableCreate.js)
+4. [Create a table for squares of numbers 1-10 using JS DOM manipulation](https://github.com/anantakrroy/FullStackWebDevelopment/blob/master/coding-challenges/week03/day5/tableCreate.js)
 
 </details>
 
