@@ -17,6 +17,7 @@
 9. [JS Calculator using JS DOM manipulation](https://github.com/anantakrroy/FullStackWebDevelopment/blob/master/assignments/week04/day1/assignment1/calculator.js)
 10. [Simple form validation](https://github.com/anantakrroy/FullStackWebDevelopment/blob/master/assignments/week04/day1/assignment2/validation.js)
 11. [Stack Emulator](https://github.com/anantakrroy/FullStackWebDevelopment/blob/master/assignments/week04/day1/assignment3/stack.js)
+12. [Quiz using jQuery](https://github.com/anantakrroy/FullStackWebDevelopment/tree/master/assignments/week04/day4)
 
 </details>
 
