@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>City Finder</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+        integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+</head>
+
+<body>
+    <div class="row">
+        <div class="col-lg-8 mx-auto">
+            <h1 class="display-4 m-3">Find city starting with letter: </h1>
+            <input type="text" class="form-control" id="firstChar" placeholder="Enter first letter">
+            <button class="btn btn-primary my-2" id="submit">Submit</button>
+        </div>
+    </div>
+    <div class="row my-3">
+        <div class="col-lg-6 mx-auto cities-row">
+            <ul id="cityList"></ul>
+        </div>
+    </div>
+
+    <!-- Scripts -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="filterCities.js"></script>
+</body>
+
+</html>
