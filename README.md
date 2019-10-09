@@ -18,6 +18,7 @@
 10. [Simple form validation](https://github.com/anantakrroy/FullStackWebDevelopment/blob/master/assignments/week04/day1/assignment2/validation.js)
 11. [Stack Emulator](https://github.com/anantakrroy/FullStackWebDevelopment/blob/master/assignments/week04/day1/assignment3/stack.js)
 12. [Quiz using jQuery](https://github.com/anantakrroy/FullStackWebDevelopment/tree/master/assignments/week04/day4)
+13. [Currency Exchange App using jQuery](https://github.com/anantakrroy/FullStackWebDevelopment/tree/master/assignments/week05/day1)
 
 </details>
 
@@ -30,6 +31,8 @@
 2. [Check if given input is a palindrome](https://github.com/anantakrroy/FullStackWebDevelopment/blob/master/coding-challenges/week03/day2/solution.js)
 3. [Filter out players from an array according to their rankings](https://github.com/anantakrroy/FullStackWebDevelopment/blob/master/coding-challenges/week03/day4/solution.js)
 4. [Create a table for squares of numbers 1-10 using JS DOM manipulation](https://github.com/anantakrroy/FullStackWebDevelopment/blob/master/coding-challenges/week03/day5/tableCreate.js)
+5. [Filter cities by first character and render in a list](https://github.com/anantakrroy/FullStackWebDevelopment/tree/master/coding-challenges/week04/day4)
+6. [Fetch and render random images from Dog API](https://github.com/anantakrroy/FullStackWebDevelopment/tree/master/coding-challenges/week05/day1)
 
 </details>
 
