@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Book Library</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+        integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+</head>
+
+<body>
+    <div class="jumbotron m-2">
+        <div class="h1 display-2 text-center text-uppercase">Book Library</div>
+        <div class="row">
+            <form class="mx-auto my-2">
+                <label class="h6">Enter language here: </label>
+                <input class="form-control text-capitalize" type="text" placeholder="Type language">
+            </form>
+        </div>
+        <div class="row">
+            <button type="button" class="btn btn-primary mx-auto my-2">Search</button>
+        </div>
+    </div>
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-10 mx-auto text-center" id="listOfBooks"></div>
+        </div>
+    </div>
+
+    <!-- Scripts -->
+    <script src="https://code.jquery.com/jquery-3.4.1.min.js"
+        integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+    <script src="script.js" async></script>
+</body>
+
+</html>
