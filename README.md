@@ -19,6 +19,7 @@
 11. [Stack Emulator](https://github.com/anantakrroy/FullStackWebDevelopment/blob/master/assignments/week04/day1/assignment3/stack.js)
 12. [Quiz using jQuery](https://github.com/anantakrroy/FullStackWebDevelopment/tree/master/assignments/week04/day4)
 13. [Currency Exchange App using jQuery](https://github.com/anantakrroy/FullStackWebDevelopment/tree/master/assignments/week05/day1)
+14. [Fun TV Series webpage using HTML5 elements](https://github.com/anantakrroy/FullStackWebDevelopment/tree/master/assignments/week05/day3)
 
 </details>
 
@@ -33,6 +34,7 @@
 4. [Create a table for squares of numbers 1-10 using JS DOM manipulation](https://github.com/anantakrroy/FullStackWebDevelopment/blob/master/coding-challenges/week03/day5/tableCreate.js)
 5. [Filter cities by first character and render in a list](https://github.com/anantakrroy/FullStackWebDevelopment/tree/master/coding-challenges/week04/day4)
 6. [Fetch and render random images from Dog API](https://github.com/anantakrroy/FullStackWebDevelopment/tree/master/coding-challenges/week05/day1)
-
+7. [Filter books by language and render as a table](https://github.com/anantakrroy/FullStackWebDevelopment/tree/master/coding-challenges/week05/day3)
+8. [JS program to compute Hamming distance between two strings](https://github.com/anantakrroy/FullStackWebDevelopment/tree/master/coding-challenges/week05/day4)
 </details>
 
