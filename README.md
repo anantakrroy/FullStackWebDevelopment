@@ -20,6 +20,7 @@
 12. [Quiz using jQuery](https://github.com/anantakrroy/FullStackWebDevelopment/tree/master/assignments/week04/day4)
 13. [Currency Exchange App using jQuery](https://github.com/anantakrroy/FullStackWebDevelopment/tree/master/assignments/week05/day1)
 14. [Fun TV Series webpage using HTML5 elements](https://github.com/anantakrroy/FullStackWebDevelopment/tree/master/assignments/week05/day3)
+15. [Create an ES5 class with member properties and prototype methods](https://github.com/anantakrroy/FullStackWebDevelopment/blob/master/tests/weekly/week05/script.js)
 
 </details>
 
