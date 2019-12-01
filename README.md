@@ -37,5 +37,7 @@
 6. [Fetch and render random images from Dog API](https://github.com/anantakrroy/FullStackWebDevelopment/tree/master/coding-challenges/week05/day1)
 7. [Filter books by language and render as a table](https://github.com/anantakrroy/FullStackWebDevelopment/tree/master/coding-challenges/week05/day3)
 8. [JS program to compute Hamming distance between two strings](https://github.com/anantakrroy/FullStackWebDevelopment/tree/master/coding-challenges/week05/day4)
+9. [Find a friend using express server](https://github.com/anantakrroy/FullStackWebDevelopment/tree/master/coding-challenges/week07/day2)
+10. [Vaidation with middleware to check if two passwords are equal](https://github.com/anantakrroy/FullStackWebDevelopment/tree/master/coding-challenges/week07/day3)
 </details>
 
