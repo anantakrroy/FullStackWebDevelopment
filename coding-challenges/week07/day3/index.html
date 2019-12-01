@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Login/Sign Up</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+        integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+</head>
+
+<body>
+
+    <div class="container offset-md-3">
+        <button type="submit" id="forLogin" value="Login" class="btn btn-success m-5">Login</button>
+        <button type="submit" id="forRegister" value="Register" class="btn btn-primary m-5">Register</button>
+    </div>
+
+    <div class="form-container offset-md-3">
+        <!-- login -->
+        <form id="loginForm" hidden=true onsubmit="return false;" class="form-group" method="POST">
+            <input type="text" name="username" id="username" placeholder="Username" class="form-control w-50 m-3">
+            <input type="password" name="password" id="password" placeholder="Password" class="form-control w-50 m-3">
+            <button type="submit" id="login" class="btn btn-danger m-3">Log In</button>
+        </form>
+
+        <!-- register -->
+        <form id="registerForm" onsubmit="return false;" hidden=true class="form-group">
+            <input type="text" name="username" id="regUser" placeholder="Username" class="form-control w-50 m-3">
+            <input type="password" name="password" id="regPass" placeholder="Password" class="form-control w-50 m-3">
+            <input type="text" name="confirmpass" id="confirmPass" placeholder="Confirm Password"
+                class="form-control w-50 m-3">
+            <button type="submit" id="register" class="btn btn-danger m-3">Register</button>
+        </form>
+    </div>
+
+
+    <!-- Scripts -->
+    <script src="https://code.jquery.com/jquery-3.4.1.min.js"
+        integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+    <script src="script.js"></script>
+</body>
+
+</html>
